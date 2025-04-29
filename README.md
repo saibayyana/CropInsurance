@@ -53,9 +53,11 @@ Each model is evaluated for accuracy and efficiency in classifying insurance eli
 
 ## 📁 Outputs
 
-- Predictions stored in JSON format
+- Machine Learning Eligible Farmers Predictions stored in JSON format
 - Audit logs stored securely on blockchain
 - Dashboards for analysis and decision-making
+- ![Dispersed Insurance Amount](https://github.com/user-attachments/assets/442de90f-0092-45b4-8472-18b10d56fd84)
+
 
 ---
 
