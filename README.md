@@ -78,10 +78,8 @@ Each model is evaluated for accuracy and efficiency in classifying insurance eli
 
 ## 🤝 Contributors
 
-- [Your Name](https://github.com/saibayyana)
-
+- [Leela Sai Krishna Bayyana](https://github.com/saibayyana)
+- Padma J
+- Ravi Sailendra Charan
+- Likitha Kolli
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
